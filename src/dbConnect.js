@@ -15,4 +15,4 @@ try {
    console.log(erro);
 }
 
-export { documentosColeca }
+export { documentosColecao }
